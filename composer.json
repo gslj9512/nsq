@@ -1,6 +1,6 @@
 {
-    "name": "hyperf/nsq",
-    "description": "A nsq library for Hyperf.",
+    "name": "gslj9512/nsq",
+    "description": "A nsq library for Hyperf.Add nsqlookup",
     "license": "MIT",
     "keywords": [
         "php",
